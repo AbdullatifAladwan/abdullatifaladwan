@@ -11,6 +11,12 @@ I'm a full-stack developer who is passionate about building robust and scalable 
 
 ## 🏆 GitHub Profile Trophy
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullatifaladwan&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="abdullatifaladwan's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifaladwan&theme=github_dark&layout=compact&hide_border=true" /></a> 
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullatifaladwan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullatifAladwan&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="AbdullatifAladwan's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullatifAladwan&theme=github_dark&layout=compact&hide_border=true" />
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullatifAladwan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
